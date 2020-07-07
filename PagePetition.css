@@ -1,0 +1,109 @@
+html { overflow-x: hidden; }
+div {
+min-width: 800px; 
+padding: 10px; 
+}
+#background1 {
+	position: relative;
+	max-width: 3840px;
+	max-height: auto;
+	margin: 0 auto;
+}
+#rectangle1 {
+    position: absolute;
+	left: 0px;
+	top: 0px;
+}
+#rectangletext {
+		position: absolute;
+	color: red;
+	left: 185px;
+	top: -50px;
+	margin-top: 50px;
+	bottom: 0;
+	z-index: 2;
+	height: 10px;
+	outline: none;
+	font-family: fantasy;
+	font-size: 25px;
+	text-decoration: none;
+}
+#CreateAPetition {
+	position: absolute;
+	left: 400px;
+	top: -40px;
+	margin-top: 50px;
+	bottom: 0;
+	z-index: 2;
+	color: inherit;
+	font-size: 18px;
+	height: 10px;
+	outline: none;
+}
+#MyPettion {
+	position: absolute;
+	left: 570px; 
+	top: -40px;
+	color: inherit;
+	font-size: 18px;
+	margin-top: 50px;
+	bottom: 0;
+	z-index: 2;
+	height: 10px;
+	outline: none;
+}
+#ViewPetitions {
+	position: absolute;
+	color: inherit;
+	font-size: 18px;
+	left: 700px;
+	top: -40px;
+	margin-top: 50px;
+	bottom: 0;
+	z-index: 2;
+	height: 10px;
+	outline: none;
+}
+#entrance {
+	position: absolute;
+	color: inherit;
+	font-size: 18px;
+	left: 1100px;
+	top: -40px;
+	margin-top: 50px;
+	bottom: 0;
+	z-index: 2;
+	height: 10px;
+	outline: none;
+}
+#Peopleconnected {
+	margin-top: 50px;
+	position: absolute;
+	left: 400px;
+	top:125px;
+	bottom: 0;
+	z-index: 2;
+	font-family: fantasy;
+	font-size: 25px;
+	font-size:2vw;
+}
+#PC1 {
+	margin-top: 50px;
+	position: absolute;
+	left: 550px;
+	top:165px;
+	bottom: 0;
+	z-index: 2;
+	font-family: fantasy;
+	font-size: 25px;
+	color: red;
+	font-size:2vw;
+}
+#card1 {
+	position:relative;
+	left: ;
+	top: ;
+	width: 940px;
+	height: 260.19px;
+}
+}
